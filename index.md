@@ -4,17 +4,18 @@ You can use the [editor on GitHub](https://github.com/benrueya/tu107/edit/gh-pag
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Benrueya Kamkongsak
+### เบญฤญา คำคงศักดิ์
+[![มหา](https://user-images.githubusercontent.com/94453652/143416524-fda35f68-8ca6-4495-979a-83c63a91b7b1.jpg)](src)
+#### ข้อมูลติดต่อ☎️
+0625381882
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+facebook: Yaya benrueya
 
-```markdown
-Syntax highlighted code block
+gmail: benrueya.2546@gmail.com
+#### การศึกษา📖
+ระดับมัธยมศึกษาตอนปลาย: โรงเรียนพิบูลวิทยาลัย
 
-# Header 1
-## Header 2
-### Header 3
-
+ปัจจุบันกำลังศึกษาระดับปริญญาตรี: วิทยาลัยสหวิทยาการ สาขาวิทยาศาสตร์และนวัตกรรมข้อมูล มหาวิทยาลัยธรรมศาสตร์
 - Bulleted
 - List
 
@@ -24,8 +25,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-![pictures].(มหา)
-```
+![Image].(pictures/มหา)
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
